@@ -1,2 +1,8 @@
-package programme_22_multilevel_inheritance;public class BabyDod {
+package programme_22_multilevel_inheritance;
+
+public class BabyDog {
+
+    public void weep() {
+        System.out.println("weeping...");
+    }
 }
